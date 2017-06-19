@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xmlapp</string>
+    <string name="string_of_file_generated">Treść wygenerowanego pliku XML : </string>
+    <string name="once_again">Wygeneruj kolejny plik</string>
+</resources>
